@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210523599707",
+    "project_id": "tweeting-app-3d8cc",
+    "storage_bucket": "tweeting-app-3d8cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210523599707:android:d719f565d5f94c05d2207e",
+        "android_client_info": {
+          "package_name": "com.example.tweetingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ7DuSsnWCr1i9PjFao_vjAW0C-fvOUkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
